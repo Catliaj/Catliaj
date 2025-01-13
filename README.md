@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I am passionate about coding, problem-solving, and
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, HTML, CSS, JavaScript
-- **Frameworks**: [Include if applicable, e.g., React, Flask, etc.]
-- **Tools**: Git, GitHub, Visual Studio Code, IntelliJ IDEA, [Add any others you use frequently]
+- **Tools**: Git, GitHub, Visual Studio Code, Eclipse, Netbeans, CodeBlocks
 
 ---
 
